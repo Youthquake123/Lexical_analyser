@@ -1,0 +1,15 @@
+char c;
+inp j=1;
+for(int i=0;i<10 && j!=5;i++){
+	j=j-1.123;
+	doule x=2.6;
+	int a[10]
+	x++;
+	if(x>=6){
+		breat;
+	}
+}
+int a=10;
+whle(a==0){
+	a--;
+}
